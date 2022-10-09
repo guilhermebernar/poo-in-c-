@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bXq56KZVQbAyRs/4W81XEfkiNikUjavPqf94zxW7bRJbS+hOuuV0+8dLMXzLTgiLLmAl066dn7QEQ/IuMnCX/w==",
+  "success": true,
+  "projectFilePath": "/home/gbn/Documentos/c#/ExemploPOO/ExemploPOO.csproj",
+  "expectedPackageFiles": [
+    "/home/gbn/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
