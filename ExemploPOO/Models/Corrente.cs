@@ -5,8 +5,11 @@ using System.Threading.Tasks;
 
 namespace ExemploPOO.Models
 {
-    public sealed class Professor : Pessoa
+    public class Corrente : Conta
     {
-        public double Salario { get; set; }
+        public override void Creditar(double valor)
+        {
+            base.Saldo = valor;
+        }
     }
 }

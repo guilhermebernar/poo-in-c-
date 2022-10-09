@@ -6,9 +6,13 @@ namespace ExemploPOO
     class Program
     {
         static void Main(string[] args)
-        {       
-            
+        {   
+            Computador comp = new Computador();
+            System.Console.WriteLine(comp.ToString());
 
+            // Corrente c = new Corrente();
+            // c.Creditar(100);
+            // c.ExibirSaldo();
 
 
             // Aluno p1 = new Aluno();
